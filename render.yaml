@@ -1,7 +1,0 @@
-services:
-  - type: web
-    name: vero-bridge-server
-    runtime: python
-    buildCommand: ""
-    startCommand: "python main.py"
-    env: python
